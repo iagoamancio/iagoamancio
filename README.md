@@ -1,12 +1,10 @@
 ### Olá 👋
                     
-Meu nome é Iago Amancio e este é meu perfil no GitHub!
+### Meu nome é Iago Amancio e este é meu perfil no GitHub!
 
-🧑🏾‍🔬Eu faço faculdade de física
+### 🧑🏾‍🔬Eu faço faculdade de física
 
-Também estudo muito programação.
-<br>
-Eu sei:
+### 🤓Também estudo muito programação. Eu Sei:
 <br>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -14,9 +12,11 @@ Eu sei:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
 
 
+### 🔭Gosto de
+<br>
+📚Livros, 🎧Música, 🎬Filmes e 🔬Ciência
           
-          
-               
+### Trabalho no Grupo Vamos que faz parte da Holding Simpar como analista de Kpi´s jr.            
 
 <!--
 **iagoamancio/iagoamancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
