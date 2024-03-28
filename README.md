@@ -7,7 +7,7 @@ Meu nome é Iago Amancio e este é meu perfil no GitHub!
 Também estudo muito programação.
 Eu sei:
 <br>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="40" height="40 />
           
           
                
