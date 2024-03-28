@@ -11,7 +11,7 @@
 📚Livros, 🎧Música, 🎬Filmes e 🔬Ciência
 
 ### Trabalho no Grupo Vamos que faz parte da Holding Simpar como analista de Kpi´s jr.  
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>  [Meu Linkedin](https://www.linkedin.com/in/iago-gabriel-amancio/)
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>            [Meu Linkedin](https://www.linkedin.com/in/iago-gabriel-amancio/)
 
 <br>
 <img loading="lazy" src= "https://github.com/iagoamancio/iagoamancio/assets/97256372/e1104b0d-a117-49cb-9454-818bbeb7012f"/>
