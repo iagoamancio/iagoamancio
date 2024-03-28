@@ -10,9 +10,12 @@
 ### 🔭Gosto de:
 📚Livros, 🎧Música, 🎬Filmes e 🔬Ciência
 
-### Trabalho no Grupo Vamos que faz parte da Holding Simpar como analista de Kpi´s jr.            
+### Trabalho no Grupo Vamos que faz parte da Holding Simpar como analista de Kpi´s jr.  
 
-<!--
+
+
+[SeeYou GifGIF](https://github.com/iagoamancio/iagoamancio/assets/97256372/e1104b0d-a117-49cb-9454-818bbeb7012f)
+
 **iagoamancio/iagoamancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
