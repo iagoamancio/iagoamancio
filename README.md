@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<i class="devicon-trêsdsmax-plain "></i>
+                    
 Olá me chamo Iago Amancio e este é meu perfil no GitHub!
 
 🧑🏾‍🔬Eu faço faculdade de física
@@ -7,8 +9,8 @@ Olá me chamo Iago Amancio e este é meu perfil no GitHub!
 Também estudo muito programação.
 Eu sei:
 <br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="40" height="40"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+               
 
 <!--
 **iagoamancio/iagoamancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
