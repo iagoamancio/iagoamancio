@@ -7,15 +7,10 @@
 ### 🤓Também estudo muito programação. Eu Sei:
 <br>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-
 <br>
-
-
-
 ### 🔭Gosto de
-<br>
 📚Livros, 🎧Música, 🎬Filmes e 🔬Ciência
-          
+<br>   
 ### Trabalho no Grupo Vamos que faz parte da Holding Simpar como analista de Kpi´s jr.            
 
 <!--
