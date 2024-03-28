@@ -11,8 +11,7 @@
 📚Livros, 🎧Música, 🎬Filmes e 🔬Ciência
 
 ### Trabalho no Grupo Vamos que faz parte da Holding Simpar como analista de Kpi´s jr.  
-
-
+<br>
 <img loading="lazy" src= "https://github.com/iagoamancio/iagoamancio/assets/97256372/e1104b0d-a117-49cb-9454-818bbeb7012f"/>
 
 
