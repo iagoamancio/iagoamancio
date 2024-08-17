@@ -10,7 +10,7 @@
 ### 🔭Gosto de:
 📚Livros | 🎧Música | 🎬Filmes | 🔬Ciência
 
-### Trabalho no Grupo Vamos que faz parte da Holding Simpar como analista de Kpi´s jr.  
+### Trabalho no Itaú Unibanco na comunidade de crédito PJ.  
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>            [Meu Linkedin](https://www.linkedin.com/in/iago-gabriel-amancio/)
 
 <br>
